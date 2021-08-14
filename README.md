@@ -1,15 +1,21 @@
 ### Hi there 👋
 
+
 👩‍💻I’m currently learning Python for data science 
-![kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c89ecd95 2067324515339931606505](https://user-images.githubusercontent.com/84135100/129443696-d2020d7b-6e16-47a0-843d-79cd957d18bf.png)
+<p align=center>
+<img src="https://user-images.githubusercontent.com/84135100/129446484-79d9649f-375c-454a-a026-f13c66e23199.png" alt="python" width="40"/> 
+</p>
 
-🕵️‍♀️ experimenting with other technologies (HTML, CSS, Javascript, Ruby on Rails),
-![transparent-software-development-logos-icon-html-5-icon-5fa86aadb6e8c8 6526294716048728777492](https://user-images.githubusercontent.com/84135100/129443666-eee45305-971b-4365-b5ea-fe97f15386ca.png)
 
-![transparent-software-development-logos-icon-css-icon-5f91de85b529a2 8753012416033952057421](https://user-images.githubusercontent.com/84135100/129443610-34007778-5a78-43b7-9be9-20c4f293286f.png)
+
+🕵️‍♀️ Experimenting with other technologies
+<p align=center>
+<img src= "https://user-images.githubusercontent.com/84135100/129446488-01f149e1-698b-4010-a0d0-8129026c1801.png" alt="html" width="30"/>
+<img src= "https://user-images.githubusercontent.com/84135100/129446486-390d362c-0aee-4c65-b54e-ae57e1a80656.png" alt="css" width="30"/> 
+<img src= https://user-images.githubusercontent.com/84135100/129446305-8365b43d-0b77-4e5d-a7fe-1a2720ab7740.png alt="rubyonrails" width="40"/>
+</p>
 
 
 👩‍🎓I have background in Economics
 
 🏭I have experience as product manager and sourcing specialist in purchasing in promotional gifts and farmaceuticals markets.
-
