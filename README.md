@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-👩‍💻I’m currently learning Python for data science 
+👩‍💻I’m currently learning Python for data science @[Dataquest](https://github.com/dataquestio)
 <p align=center>
 <img src="https://user-images.githubusercontent.com/84135100/129446484-79d9649f-375c-454a-a026-f13c66e23199.png" alt="python" width="40"/> 
 </p>
