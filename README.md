@@ -13,6 +13,6 @@
 
 
 
-👩‍🎓I have background in Economics
+👩‍🎓I have a background in Economics
 
 🏭I have experience as product manager and sourcing specialist in purchasing in promotional gifts and farmaceuticals industries.
