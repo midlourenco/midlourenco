@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-👩‍💻I’m currently learning Python for data science @[Dataquest](https://github.com/dataquestio)
+👩‍💻I’m currently learning Java @UC[UC](https://apps.uc.pt/courses/en/course/4301)
+Besides, learning Python for data science @[Dataquest](https://github.com/dataquestio)
 
 🕵️‍♀️ Experimenting with other technologies
 <p align=center>
