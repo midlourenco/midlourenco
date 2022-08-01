@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<p>👩‍💻 I’m currently learning Java @[UC](https://apps.uc.pt/courses/en/course/4301)</p>
+<p>👩‍💻 Recently finished an intensive programming course in Java @[UC](https://apps.uc.pt/courses/en/course/4301)</p>
 <p>Besides, learning Python for data science @[Dataquest](https://github.com/dataquestio)</p>
 
 🕵️‍♀️ Experimenting with other technologies
@@ -14,6 +14,6 @@
 
 
 
-👩‍🎓I have a background in Economics
+👩‍🎓 Has a background in Economics
 
-🏭I have experience as product manager and sourcing specialist in purchasing in promotional gifts and farmaceuticals industries.
+🏭 Has experience as product manager and sourcing specialist in purchasing in promotional gifts and farmaceuticals industries.
