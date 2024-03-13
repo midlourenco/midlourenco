@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-<p>👩‍💻 Recently finished an intensive programming course in Java @[UC](https://apps.uc.pt/courses/en/course/4301), where learn about web application with RESTFUL API, JAX-RS, and MySQL database. Experimenting with different frameworks and libraries like React, Chakra-UI </p>
-<p>Besides, learning Python for data science @[Dataquest](https://github.com/dataquestio)</p>
+<p>👩‍💻 Technical training: completed an intensive programming course in Java @[UC](https://apps.uc.pt/courses/en/course/4301), specializing in web application development with RESTful APIs. Experimenting with different frameworks and libraries like React, Chakra-UI.
+<p>Also, exploring data analysis using Python. @[Dataquest](https://github.com/dataquestio)</p>
 <p> Check some tutorials results @[Neflify](https://app.netlify.com/teams/midlourenco/overview)</p>
 
 
@@ -13,6 +13,4 @@
 </p>
 
 
-👩‍🎓 Has a background in Economics
-
-🏭 Has experience as product manager and sourcing specialist in purchasing in promotional gifts and farmaceuticals industries.
+👩‍🎓 Background in Economics with over a decade of professional experience as a product manager and sourcing specialist in purchasing, with expertise in negotiation, purchasing, and quality control processes.
